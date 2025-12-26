@@ -1,4 +1,4 @@
-<img width="593" height="114" alt="image" src="https://github.com/user-attachments/assets/7c28cf8e-6ca7-48bc-aac3-c5ce45694a88" />## Loops in Python: Palindrome Number Checker
+## Loops in Python: Palindrome Number Checker
 
 ## 🎯 Aim
 To write a Python program that checks whether a given number is a **palindrome** using loops.
